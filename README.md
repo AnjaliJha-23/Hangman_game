@@ -62,6 +62,6 @@ python hangman_game.py
 
 4. Fill out the entire word to **Win** 🎉. If the hangman is completely drawn before you guess the word, you **Lose** 💀.
 
----
 
-```
+
+
